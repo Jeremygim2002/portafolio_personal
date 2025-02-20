@@ -1,0 +1,48 @@
+
+:root {
+  --default-font: "Poppins",  sans-serif;
+  --heading-font: "Montserrat", serif;
+  --nav-font: "Raleway", serif;
+
+
+  /*  Colores Globales */
+  --background-color: #1B1F27; /* Azul-negro profundo (más limpio y moderno) */
+  --default-color: #D1D5DB; /* Gris claro azuloso, mejor contraste */
+  --heading-color: #4FA4FF; /* Azul neón más sofisticado */
+  --accent-color: #0A84FF; /* Azul cobalto más fuerte para destacar */
+  --surface-color: #22262E; /* Gris oscuro para secciones */
+  --contrast-color: #F8FAFC; /* Blanco casi puro, sin ser tan agresivo */
+
+  /*  Menú de Navegación */
+  --nav-color: #D1D5DB; /* Color claro para los enlaces */
+  --nav-hover-color: #4FA4FF; /* Azul brillante en hover */
+  --nav-mobile-background-color: #22262E; /* Fondo oscuro en móvil */
+
+  /* Smooth scroll */
+  scroll-behavior: smooth;
+
+}
+
+/*  Modo Oscuro  */
+.dark-background {
+  --background-color: #181C24;
+  --default-color: #E5E7EB;
+  --heading-color: #4FA4FF;
+  --surface-color: #262B34;
+}
+
+/*  Modo Destacado  */
+.accent-background {
+  --background-color: #0A84FF; 
+  --default-color: #ffffff;
+  --heading-color: #D6E4FF;
+  --surface-color: #155BDB;
+}
+
+/*  Modo Claro  */
+.light-background {
+  --background-color: #F3F4F6;
+  --default-color: #333;
+  --heading-color: #0A66C2; 
+  --surface-color: #FFFFFF;
+}
