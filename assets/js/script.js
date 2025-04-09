@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
             category: "Desarrollo Full Stack",
             duration: "2 meses",
             technologies: "PHP, JS, HTML, CSS, Bootstrap, MySQL, Figma, Git",
-            repository: "https://github.com/Jeremygim2002/Proyecto_DePelos.git",
+            repository: "https://github.com/Jeremygim2002/Proyecto_DePelos.gi",
             description: "Plataforma web para la adopción de mascotas con una base de datos que actualiza disponibilidad en tiempo real. Incluye una interfaz intuitiva y permite la compra de productos para mascotas, generando automáticamente un comprobante de pago simplificado para los usuarios.",
             images: Array.from({ length: 14 }, (_, i) => `depelos_${i + 1}.jpg`)
         },
@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
             category: "Desarrollo Full Stack",
             duration: "2 meses",
             technologies: "PHP, JS, HTML, CSS, Bootstrap, SQL server, Figma, Git",
-            repository: "https://github.com/Jeremygim2002/Proyecto_TuAlpaca.git",
+            repository: "https://github.com/Jeremygim2002/Proyecto_TuAlpaca.gi",
             description: "Tienda en línea para la venta de lana de alpaca y productos derivados. Cuenta con un panel de administración para gestionar stock, usuarios y productos. Los clientes pueden agregar artículos a una barra lateral, ver su selección y generar una boleta de pago, ofreciendo una experiencia de compra fluida y eficiente.",
             images: Array.from({ length: 14 }, (_, i) => `tualpaca_${i + 1}.jpg`)
         },
@@ -28,7 +28,7 @@ document.addEventListener("DOMContentLoaded", function () {
             category: "Desarrollo Front End",
             duration: "1 mes",
             technologies: "Figma, React, CSS, Js, Git, Bootstrap",
-            repository: "https://github.com/Jeremygim2002/blog-mental.git",
+            repository: "https://github.com/Jeremygim2002/blog-mental.gi",
             link:"https://blog-mental.netlify.app/",
             description: "Blog dedicado a la salud mental con anécdotas de profesionales del sector, frases motivadoras y consejos prácticos para el bienestar emocional. Diseñado para inspirar y apoyar a quienes buscan motivación y orientación en su día a día.",
             images: ["blogmental_1.jpg", "blogmental_2.jpg", "blogmental_3.jpg"]
@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
             category: "Desarrollo Front End",
             duration: "1 mes",
             technologies: "Figma, HTML, CSS, Js, Git, Bootstrap",
-            repository: "https://github.com/Jeremygim2002/Proyecto_CatalogoPeliculas.git",
+            repository: "https://github.com/Jeremygim2002/Proyecto_CatalogoPeliculas.gi",
             link:"https://catalogo-peliculas.netlify.app/",
             description: "Aplicación web para buscar películas mediante filtros como novedades, populares, más destacadas y próximos estrenos. También permite buscar por nombre y muestra los resultados en una página dinámica con información detallada.",
             images: ["catalogopeliculas_1.jpg", "catalogopeliculas_2.jpg", "catalogopeliculas_3.jpg", "catalogopeliculas_4.jpg"]
@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
             category: "Aplicación de escritorio",
             duration: "6 meses",
             technologies: "Sql Lite, C#, Figma, Python, Git",
-            repository: "https://github.com/Jeremygim2002/Proyecto_SuperTodo.git",
+            repository: "https://github.com/Jeremygim2002/Proyecto_SuperTodo.gi",
             description: "Aplicación de escritorio donde los clientes pueden seleccionar productos con imágenes, elegir cantidades y visualizar precios en tiempo real. Los productos se agregan a una lista con actualización dinámica, permitiendo eliminar, aumentar cantidades y aplicar descuentos disponibles.",
             images: ["supertodo_1.jpg", "supertodo_2.jpg", "supertodo_3.jpg", "supertodo_4.jpg"]
         }
